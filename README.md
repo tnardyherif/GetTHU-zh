@@ -3,4 +3,4 @@ Chinese version of GetTHU, which is a small clone of [2048](http://gabrielecirul
 
 Based on GetMIT by MITchell Gu; inspired by Get Caltech! by Naveen Arun.
 
-Made just for fun; no hard feelings to other colleges! [Play it here!](http://tnardyherif.github.io/GetTHU/)
+Made just for fun; no hard feelings to other colleges! [Play it here!](http://tnardyherif.github.io/GetTHU-zh/)
